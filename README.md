@@ -5,7 +5,7 @@ skills & tools
 c
 java
 connect with me
-email : shaiksameersulthan298@@gmail.com
+email : shaiksameersulthan298@gmail.com
 linkedin : https://www.linkedin.com/in/shaik-sameer-sulthan-4533a3355/
 <!--
 **Sam2204/Sam2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
